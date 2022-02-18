@@ -1,5 +1,6 @@
 
 # ms-mail
+
 # CRIANDO UM MICROSERVICE DE ENVIO DE EMAIL
 
 
@@ -22,3 +23,14 @@ https://github.com/MichelliBrito/ms-email
 
 # Documentacao Swagger
 http://localhost:8080/swagger-ui/index.html
+
+# Tecnologias e Ferramentas:
+- JDK 8
+- Maven
+- Postman
+- Spring Boot
+- Spring Data
+- Spring Fox
+- Swagger
+- PgAdmin (Postgres)
+- IDE (IntelliJ, STS, Eclipse, etc)
